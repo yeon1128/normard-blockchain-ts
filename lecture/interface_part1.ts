@@ -39,7 +39,7 @@ const nico2: Player2 = {
 };
 
 // interface Hello = string // error ⭕️
-// interface는 오로지 객체의 모양을 타입스크립트에게 설명해주기 위한 용도로 사용됨
+// interface는 오로지 object나 class의 모양을 타입스크립트에게 설명해주기 위한 용도로 사용됨
 // 반면 type은 다양한 용도로 활용 가능
 // interface는 객체 지향 프로그래밍 개념을 활용해서 디자인
 
