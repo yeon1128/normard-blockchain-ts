@@ -34,6 +34,7 @@ const playerBB = {
   health: 10,
 };
 
+// 📍 class
 type Player1 = {
   firstName: string;
 };
