@@ -10,8 +10,9 @@ class Block {
 // localStorage.getItem();
 // Math.ceil();
 
-import { init, exit } from "myPackage";
-init({ url: "true" });
-exit(1);
+// import { init, exit } from "myPackage";
+// init({ url: "true" });
+// exit(1);
 
-localStorage.clear;
+import { init, exit } from "./myPackage";
+// init();
