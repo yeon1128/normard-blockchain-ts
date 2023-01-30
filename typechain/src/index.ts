@@ -9,3 +9,9 @@ class Block {
 // document.querySelector();
 // localStorage.getItem();
 // Math.ceil();
+
+import { init, exit } from "myPackage";
+init({ url: "true" });
+exit(1);
+
+localStorage.clear;
